@@ -1,2 +1,2 @@
 # YG-DEVICE-MS
-WIN版 串口调试工具 （C# + WinForms）
+Windows版本 串口调试工具 （C# + WinForms）
