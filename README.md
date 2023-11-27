@@ -14,7 +14,7 @@ YG-DEVICE-MS 是**串口调试助手**，用于 Window 串口日志的采集、�
 
 下载地址：[点此下载](https://github.com/yinwenguang1210/YG-DEVICE-MS.git)
 
-![image-20231127133326079](C:\Users\YinWenGuang\AppData\Roaming\Typora\typora-user-images\image-20231127133326079.png)
+![image-20231127133326079](https://github.com/yinwenguang1210/YG-DEVICE-MS/tree/main/imgs/sc1.png)
 
 
 # 关于
