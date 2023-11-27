@@ -14,7 +14,7 @@ YG-DEVICE-MS 是**串口调试助手**，用于 Window 串口日志的采集、�
 
 下载地址：[点此下载](https://github.com/yinwenguang1210/YG-DEVICE-MS.git)
 
-<img src="/imgs/sc1.png" width="430">
+<img src="/imgs/sc1.png" width="830">
 
 # 关于
 
